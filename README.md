@@ -26,7 +26,7 @@ Setelah mengatur lingkungan dan menginstal paket-paket yang diperlukan, Anda dap
 
 ## Dashboard Link
 
-[https://dashboard-e-commerce-public-dataset.streamlit.app/]
+(https://dashboard-e-commerce-public-dataset.streamlit.app/)
 
 Selamat mengeksplorasi data e-commerce Brazil melalui dashboard ini!
 
