@@ -7,7 +7,7 @@ Untuk menjalankan dashboard ini, Anda dapat mengikuti langkah-langkah berikut:
 
 1. Buat lingkungan virtual dengan Python 3.9 menggunakan conda:
 2. Aktifkan lingkungan virtual yang telah dibuat:
-'''conda activate main-ds'''
+''' conda activate main-ds '''
 3. Instal paket-paket yang diperlukan dengan menggunakan pip:
 '''pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel'''
 
