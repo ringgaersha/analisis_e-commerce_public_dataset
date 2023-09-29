@@ -22,19 +22,8 @@ if selected == "About Projects":
     image = Image.open(my_file)
     resized_image = image.resize((650, 350))
     st.image(resized_image, caption='E-Comerce Analysis Dashboard')
-    # col1, col2, col3 = st.columns(3)
 
-    # with col1:
     st.write("Dashboard ini menggunakan Brazilian E-Commerce Public Dataset sebagai sumber datanya. Dataset ini berisi informasi tentang transaksi e-commerce di Brazil dan memberikan gambaran tentang tren dan pola pembelian online di negara tersebut.")
-
-
-    # with col2:
-    #     st.write("Dalam dashboard ini, dibuat visualisasi data yang menarik. Visualisasi ini akan membantu untuk memahami berbagai aspek penjualan e-commerce di Brazil, termasuk informasi tentang kota dengan jumlah penjual terbanyak, kategori produk yang paling populer, dan tren pembelian selama periode waktu tertentu.")
-
-    
-    # with col3:
-    #     st.write("Selain itu, dashboard ini juga dilengkapi dengan fitur interaktif, yang memungkinkan untuk mengeksplorasi data dengan cara yang lebih dalam.")
-    #     st.write("Tujuan dari projek ini adalah untuk memberikan dashboard yang interaktif dan informatif dalam mempelajari dan menggali informasi dari dataset E-Commerce Public Dataset.")
 
     
 
