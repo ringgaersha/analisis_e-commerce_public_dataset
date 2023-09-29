@@ -8,9 +8,7 @@ Untuk menjalankan dashboard ini, Anda dapat mengikuti langkah-langkah berikut:
 
 1. Buat lingkungan virtual dengan Python 3.9 menggunakan conda:
 
-   \```bash
-   conda create --name main-ds python=3.9
-   \```
+         \```conda create --name main-ds python=3.9\```
 
 2. Aktifkan lingkungan virtual yang telah dibuat:
 
